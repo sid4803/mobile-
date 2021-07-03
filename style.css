@@ -1,0 +1,57 @@
+body{
+    font-family: 'Akaya Kanadaka', cursive;
+    background-color: #f5dbda;
+}
+.header_div{
+    background-color: greenyellow;
+     color: blue;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+ background-color: rgb(172, 14, 14);
+ padding: 10px;
+ margin-top: 15px;
+ border: 3px solid orange;
+}
+.main_div label{
+    background-color: rgb(20, 230, 230);
+    width: 310px;
+ padding: 10px;
+ margin-bottom: 0px;
+ box-shadow: 5px 5px 18px black;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px black;
+    border: 2px dotted;
+}
+#camera,#result{
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+    border: 2px groove purple;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div img{
+    width: 70px;
+}
+.footer_div h4{
+    background-color: rgb(20, 230, 230);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px black;
+}
+.copy_right_footer{
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    line-height: 3;
+    text-align: center;
+}
